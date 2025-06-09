@@ -33,7 +33,7 @@ To Whom It May Concern:
 #block(above: 1fr, breakable: false)[
 Sincerely,
 
-#image("signature.svg", width: 5cm)
+#image("signature.png", width: 5cm)
 
 Ernie Chu,\
 PhD Student,\
