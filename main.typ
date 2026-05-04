@@ -7,14 +7,14 @@
   logo: "jhu.logo/WSE.logo.rgb_horizontal.blue.svg",
   info: [
     #text(jhu-blue)[*Address:*]
-    Hackerman 211
+    Data Science and AI Institute
     #block(
       spacing: 0.6em,
       inset: (left: 1em),
     )[
-      Department of Computer Science \
       Johns Hopkins University \
-      Baltimore, MD 21218 \
+      6225 Smith Avenue \
+      Baltimore, MD 21209 \
       United States
     ]
     #text(jhu-blue)[*Email:*]
